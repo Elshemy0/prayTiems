@@ -3,7 +3,7 @@ import prayImage from "/public/img.jpg"
 import { useEffect, useState } from 'react'
 import moment from 'moment'
 import 'moment/dist/locale/ar';
-import Loader from './components/loader';
+import Loader from './components/Loader';
 moment.locale("ar")
 function App() {
 
